@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917208914609",
+    "project_id": "pushnotification-8948d",
+    "storage_bucket": "pushnotification-8948d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917208914609:android:e5dfc73d7fb2ab61856090",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-4NzlZObCisuKADDb19dLYHqFkcGx9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
